@@ -1,0 +1,15 @@
+C:\Users\maahc\OneDrive\Área de Trabalho\Lucas\Estacionamento-DIO\bin\Debug\net7.0\Estacionamento-DIO.exe
+C:\Users\maahc\OneDrive\Área de Trabalho\Lucas\Estacionamento-DIO\bin\Debug\net7.0\Estacionamento-DIO.deps.json
+C:\Users\maahc\OneDrive\Área de Trabalho\Lucas\Estacionamento-DIO\bin\Debug\net7.0\Estacionamento-DIO.runtimeconfig.json
+C:\Users\maahc\OneDrive\Área de Trabalho\Lucas\Estacionamento-DIO\bin\Debug\net7.0\Estacionamento-DIO.dll
+C:\Users\maahc\OneDrive\Área de Trabalho\Lucas\Estacionamento-DIO\bin\Debug\net7.0\Estacionamento-DIO.pdb
+C:\Users\maahc\OneDrive\Área de Trabalho\Lucas\Estacionamento-DIO\obj\Debug\net7.0\Estacionamento-DIO.csproj.AssemblyReference.cache
+C:\Users\maahc\OneDrive\Área de Trabalho\Lucas\Estacionamento-DIO\obj\Debug\net7.0\Estacionamento-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maahc\OneDrive\Área de Trabalho\Lucas\Estacionamento-DIO\obj\Debug\net7.0\Estacionamento-DIO.AssemblyInfoInputs.cache
+C:\Users\maahc\OneDrive\Área de Trabalho\Lucas\Estacionamento-DIO\obj\Debug\net7.0\Estacionamento-DIO.AssemblyInfo.cs
+C:\Users\maahc\OneDrive\Área de Trabalho\Lucas\Estacionamento-DIO\obj\Debug\net7.0\Estacionamento-DIO.csproj.CoreCompileInputs.cache
+C:\Users\maahc\OneDrive\Área de Trabalho\Lucas\Estacionamento-DIO\obj\Debug\net7.0\Estacionamento-DIO.dll
+C:\Users\maahc\OneDrive\Área de Trabalho\Lucas\Estacionamento-DIO\obj\Debug\net7.0\refint\Estacionamento-DIO.dll
+C:\Users\maahc\OneDrive\Área de Trabalho\Lucas\Estacionamento-DIO\obj\Debug\net7.0\Estacionamento-DIO.pdb
+C:\Users\maahc\OneDrive\Área de Trabalho\Lucas\Estacionamento-DIO\obj\Debug\net7.0\Estacionamento-DIO.genruntimeconfig.cache
+C:\Users\maahc\OneDrive\Área de Trabalho\Lucas\Estacionamento-DIO\obj\Debug\net7.0\ref\Estacionamento-DIO.dll
